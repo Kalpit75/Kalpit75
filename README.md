@@ -1,12 +1,12 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=speech&height=150&color=gradient&text=Hello%20Guys🦜&textBg=false&animation=twinkling&reversal=false&fontSize=55">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hello%20Guys🦜&textBg=false&animation=twinkling&reversal=false&fontSize=55">
 </p>
 
 <div>
 
-  <h1 align="center">
+  <h2 >
     Let's Connect and have a Chat!💬
-  </h1>
+  </h2>
 
 
   <p align="center">
